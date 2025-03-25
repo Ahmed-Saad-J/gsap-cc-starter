@@ -12,7 +12,7 @@ const GsapFrom = () => {
 
       <p className="mt-5 text-gray-500">
         The <code>gsap.from()</code> method is similar to the{" "}
-        <code>gsap.to()</code> method, but the difference is that the{" "}
+        <code>gsap.to()</code> method, beeut the difference is that the{" "}
         <code>gsap.from()</code> method animates elements from a new state to
         their current state, while the <code>gsap.to()</code> method animates
         elements from their current state to a new state.
